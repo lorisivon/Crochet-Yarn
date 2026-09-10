@@ -1,25 +1,49 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #fff7fb;
-    color: #333;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
+        font-family: Arial, sans-serif;
+            background-color: #f5edff;
+                color: #3d2757;
+                    margin: 0;
+                        padding: 0;
+                            text-align: center;
+                            }
 
-h1 {
-    background-color: #d98fb3;
-    color: white;
-    padding: 30px;
-    margin: 0;
-}
+                            h1 {
+                                background-color: #7b4aa8;
+                                    color: white;
+                                        padding: 30px;
+                                            margin: 0;
+                                            }
 
-h2 {
-    color: #b45f8a;
-    margin-top: 30px;
-}
+                                            h2 {
+                                                color: #6a3d91;
+                                                    margin-top: 30px;
+                                                    }
 
-p {
-    font-size: 18px;
-    margin: 20px;
+                                                    h3 {
+                                                        color: #7b4aa8;
+                                                        }
+
+                                                        p {
+                                                            font-size: 18px;
+                                                                margin: 20px;
+                                                                }
+
+                                                                button {
+                                                                    background-color: #7b4aa8;
+                                                                        color: white;
+                                                                            border: none;
+                                                                                padding: 12px 25px;
+                                                                                    border-radius: 8px;
+                                                                                        font-size: 16px;
+                                                                                        }
+
+                                                                                        button:hover {
+                                                                                            background-color: #5f3585;
+                                                                                            }
+
+                                                                                            input, select {
+                                                                                                padding: 10px;
+                                                                                                    border: 1px solid #b895d3;
+                                                                                                        border-radius: 6px;
+                                                                                                        }
 }
